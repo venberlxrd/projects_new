@@ -1,0 +1,7 @@
+C:\Users\comp0709\source\repos\types_znacheniya_links_types\types_znacheniya_links_types\bin\Debug\types_znacheniya_links_types.exe.config
+C:\Users\comp0709\source\repos\types_znacheniya_links_types\types_znacheniya_links_types\bin\Debug\types_znacheniya_links_types.exe
+C:\Users\comp0709\source\repos\types_znacheniya_links_types\types_znacheniya_links_types\bin\Debug\types_znacheniya_links_types.pdb
+C:\Users\comp0709\source\repos\types_znacheniya_links_types\types_znacheniya_links_types\obj\Debug\types_znacheniya_links_types.csprojAssemblyReference.cache
+C:\Users\comp0709\source\repos\types_znacheniya_links_types\types_znacheniya_links_types\obj\Debug\types_znacheniya_links_types.csproj.CoreCompileInputs.cache
+C:\Users\comp0709\source\repos\types_znacheniya_links_types\types_znacheniya_links_types\obj\Debug\types_znacheniya_links_types.exe
+C:\Users\comp0709\source\repos\types_znacheniya_links_types\types_znacheniya_links_types\obj\Debug\types_znacheniya_links_types.pdb

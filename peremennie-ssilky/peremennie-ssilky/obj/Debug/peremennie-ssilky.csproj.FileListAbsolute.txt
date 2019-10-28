@@ -1,0 +1,7 @@
+C:\Users\comp0709\source\repos\peremennie-ssilky\peremennie-ssilky\bin\Debug\peremennie-ssilky.exe.config
+C:\Users\comp0709\source\repos\peremennie-ssilky\peremennie-ssilky\bin\Debug\peremennie-ssilky.exe
+C:\Users\comp0709\source\repos\peremennie-ssilky\peremennie-ssilky\bin\Debug\peremennie-ssilky.pdb
+C:\Users\comp0709\source\repos\peremennie-ssilky\peremennie-ssilky\obj\Debug\peremennie-ssilky.csprojAssemblyReference.cache
+C:\Users\comp0709\source\repos\peremennie-ssilky\peremennie-ssilky\obj\Debug\peremennie-ssilky.csproj.CoreCompileInputs.cache
+C:\Users\comp0709\source\repos\peremennie-ssilky\peremennie-ssilky\obj\Debug\peremennie-ssilky.exe
+C:\Users\comp0709\source\repos\peremennie-ssilky\peremennie-ssilky\obj\Debug\peremennie-ssilky.pdb
